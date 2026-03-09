@@ -27,5 +27,4 @@ I am strengthening my skills in:
 Connect with me
 
 💼 LinkedIn https://www.linkedin.com/in/mohammed-usmanh/
-
 📧 Email  mhusseinusman111@gmail.com
