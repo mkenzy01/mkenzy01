@@ -11,8 +11,7 @@ I'm Mohammed Usman (Kenzy), a Computer Science graduate transitioning from Web d
 - Cloud-based data platforms
 - Distributed data systems
 
-🚀 Currently, I work & learn at 10Alytics as a Data Engineering Fellow. 
-I am strengthening my skills in:
+🚀 Currently, I am strengthening my skills in:
 - Python for data engineering
 - SQL performance optimization
 - Data pipeline architecture
